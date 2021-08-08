@@ -21,7 +21,7 @@ library(tidytext)
 ```
 
 ```{r Read the file}
-df_detention <- read.csv(file = "/users/rounakagarwal/desktop/ETC1010_M3/detention_original.csv")
+df_detention <- read.csv(file = "/detention_original.csv")
 glimpse(df_detention)
 ```
 
@@ -116,7 +116,7 @@ write.csv(df_detention,'detention_clean.csv')
 
 reading the second dataset
 ```{r reding reddit dataset}
-df_reddit <- read.csv(file = "/users/rounakagarwal/desktop/ETC1010_M3/reddit_original.csv")
+df_reddit <- read.csv(file = "/reddit_original.csv")
 ```
 
 select the needed columns

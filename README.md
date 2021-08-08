@@ -9,10 +9,10 @@ With the interest in human right and politics, the situation of child detentions
 # Description of the dataset and Questions of the analysis
 There are 2 cleaned datasets, namely detention_clean.csv and reddit_clean.csv . 
 
-**The first dataset** -- "detention_clean.csv" 
+The first dataset -- "detention_clean.csv" 
   - is to analyse the children detained more than 72 hours by grouping them on the basis of nationality and age group.  
 
-**  Questions involved of the first dataset: **
+  Questions involved of the first dataset:
     1. Find the average number of hours the children were detained over time (The proportion of the children who were detained more than 72 hours and less than 72 hours). 
     2. By how many hours did the detention exceed the 72 hours limit on average? 
     3. By how much did the detention barrier increase by, over the past four years? 
@@ -26,9 +26,9 @@ This dataset contains the date every child been detained in and out, the hours o
 
  
 
-**The second one** -- "reddit_clean.csv" is to Analyze the sentiment of the people based on a reddit post which was posted after the news.
+The second one -- "reddit_clean.csv" is to Analyze the sentiment of the people based on a reddit post which was posted after the news.
  
- **Questions involved of the second dataset:** 
+ Questions involved of the second dataset: 
   1. What are the most important keywords? 
   2. What are the sentiments of Redditors on this issues?
 

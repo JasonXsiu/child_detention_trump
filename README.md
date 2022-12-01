@@ -1,5 +1,5 @@
 # Trump’s Vast Expansion of Child Detention
-
+The report can be found [here](https://www.jason-siu.com/child_detention_trump/report.html).
 # What is this about?
 This analysis is to depict the situation of child detentions across the US boarder, particularly during Trump's administration, and to interpret how general public view upon the issues.
 
